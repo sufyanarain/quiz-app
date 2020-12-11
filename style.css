@@ -1,0 +1,83 @@
+.card-text:hover {
+    background-color: rgb(18, 35, 54);
+    color: white;
+    cursor: pointer;
+}
+
+.active {
+    background-color: rgb(8, 45, 85);
+
+    color: white;
+}
+
+.card {
+    margin: auto;
+    margin-top: 40px;
+}
+
+.card-title {
+    font-variant-caps: all-small-caps;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 28px;
+    color: rgb(240, 240, 240);
+    
+
+    font-weight: bold;
+}
+
+.card-text {
+    height: 45px;
+    padding-left: 15px;
+    /* padding-top: 5px; */
+    font-size: 24px;
+    font-variant-caps: petite-caps;
+    border-radius: 16px;
+    color: rgb(240, 240, 240);
+}
+
+.card-body {
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+}
+
+.card-header{
+    background-color: rgb(51, 61, 73) !important;
+    color: rgb(240, 240, 240);
+    
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.btn-next{
+    background: none !important;
+}
+
+.btn{
+    width: 100px;
+    height: 45px;
+    font-size: 20px !important;
+    font-weight: 550 !important;
+    background-color: rgb(51, 25, 100) !important;
+    border-color: rgb(44, 9, 90) !important ;
+
+    /* border: none !important; */}
+
+
+
+
+/* ********************1st page********************** */
+
+
+#form{
+    /* text-align: center;
+    align-items: center; */
+    margin:auto;
+}
+
+
+
+
+
+
+
+
+
